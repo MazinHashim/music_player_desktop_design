@@ -1,0 +1,7 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.bottom{
+	-fx-background-color: linear-gradient(#5ab0e2,#283c50);
+}
+.top{
+	-fx-background-color: linear-gradient(#283c50,#5ab0e2);
+}
